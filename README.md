@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31135074/README.md)
 # Emily Gakii — Portfolio
 
 Finance & bookkeeping portfolio site. Plain HTML/CSS/JS, no build step, no framework, no backend — built to deploy directly on GitHub Pages.
